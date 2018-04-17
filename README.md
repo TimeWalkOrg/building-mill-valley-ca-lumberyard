@@ -9,7 +9,7 @@ Description tbd.
 - Architect: tbd
 
 ## SketchUp Model
-- Model Creator: Cooper Carol, Milo Scola
+- Model Creator: Cooper Lagner, Milo Scola
 - Model completed: tbd
 - Modeled in SketchUp 2017
 
@@ -17,6 +17,4 @@ Description tbd.
 ![Photo of the Lumber Yard c.1920](https://github.com/TimeWalkOrg/building-mill-valley-ca-lumberyard/blob/master/Old%20Buildings.jpg)
 
 ### Online references:
-- [Mill Valley Historical Society Vignette](https://www.mvhistory.org/vignette-142-throckmorton/)
-- [Throckmorton Theatre website](https://throckmortontheatre.org/)
-- [Mill Valley Historical Review, Spring 1984](http://www.millvalleylibrary.net/historyroom/collections/archive/files/mvhs1984spring-reduce_910d348bce.pdf)
+- tbd
