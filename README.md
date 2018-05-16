@@ -8,9 +8,9 @@ Description tbd.
 - Replaced: tbd
 - Architect: tbd
 
-## SketchUp Model
-- Model Creator: Cooper Lagner, Milo Scola
-- Model completed: tbd
+## Models
+- Model Creator: Cooper Lagner (SketchUp), Milo Scola (Fusion360)
+- Model completed: May 2018
 - Modeled in SketchUp 2017
 
 
