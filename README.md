@@ -14,6 +14,7 @@ Description tbd.
 - Modeled in SketchUp 2017
 
 
+![SketchUp Models](https://github.com/TimeWalkOrg/building-mill-valley-ca-lumberyard/blob/master/lumberyard.jpg)
 ![Photo of the Lumber Yard c.1920](https://github.com/TimeWalkOrg/building-mill-valley-ca-lumberyard/blob/master/Old%20Buildings.jpg)
 
 ### Online references:
