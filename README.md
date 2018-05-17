@@ -2,6 +2,9 @@
 129 Miller Avenue, Mill Valley, CA 94941
 
 ## Building History
+Throughout its hundred and twenty six years of existence the Mill Valley Lumber Yard has gone though a number of names and owners. First owned privately in 1892, the yard opened with the name Dollar Lumber Co under the ownership of Robert Dollar. Six years later in 1898 the yard was transferred into the ownership of J.H.McInnes, who kept the yard for ten years. In 1908 it was sold to R.C. Doherty, who reopened it under the name Doherty Lumber Co. Doherty owned the yard for  four years before it changed ownership once again in 1912 to N.P. Yost and gained its current name: Mill Valley Lumber Co. Since 1912 the yard has move through several other people’s hands (1956 - J.L. Castleman; 1988 - J.L. Castleman et. al. J. Merchant; 1996 - J.Merchant; 2004 - T. Cerri; 2012 - Matt and Jan Mathews) but has retained the name Mill Valley Lumber Co. The yard was remodeled in 1914 following significant damage in a storm, but retains the same building footprints.
+
+
 Excerpt from a 2014 historic evaluation ([link here](http://cityofmillvalley.granicus.com/MetaViewer.php?view_id=2&clip_id=721&meta_id=31010)):
 
 "The history of the Mill Valley Lumber property is integral to the history of the town of Mill Valley. 
@@ -22,6 +25,7 @@ original and early form of the property and its structures."
 ## Models
 - Model Creator: Cooper Lagner (SketchUp), Milo Scola (Fusion360)
 - Model completed: May 2018
+
 - Modeled in SketchUp 2017
 
 
@@ -30,5 +34,9 @@ original and early form of the property and its structures."
 
 ### Online references:
 - [MillValleyLumberyard.com](http://www.millvalleylumberyard.com/history/)
-- [Historic Evaluation of the Site c.2014](http://cityofmillvalley.granicus.com/MetaViewer.php?view_id=2&clip_id=721&meta_id=31010)
+- [Historic Evaluation of the Site c.2014](http://cityofmillvalley.granicus.com/MetaViewer.php?
+- [LUMBER YARD SIGHT](http://www.millvalleylumberyard.com/history/)
+
+view_id=2&clip_id=721&meta_id=31010)
+
 
