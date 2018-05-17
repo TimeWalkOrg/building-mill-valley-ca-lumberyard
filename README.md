@@ -34,7 +34,7 @@ original and early form of the property and its structures."
 
 ### Online references:
 - [MillValleyLumberyard.com](http://www.millvalleylumberyard.com/history/)
-- [Historic Evaluation of the Site c.2014](http://cityofmillvalley.granicus.com/MetaViewer.phpview_id=2&clip_id=721&meta_id=31010)
+- [Historic Evaluation of the Site c.2014](http://cityofmillvalley.granicus.com/MetaViewer.php/view_id=2&clip_id=721&meta_id=31010)
 - [MillValleyLumberyardHistory](http://www.millvalleylumberyard.com/history/)
 
 
