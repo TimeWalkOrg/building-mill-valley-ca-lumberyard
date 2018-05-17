@@ -10,7 +10,7 @@ two principal thoroughfares, the MVL site and its use have been familiar to gene
 residents. The MVL is one of MV's oldest, largest and most durable commercial properties and
 businesses. Even if most may never have entered the property, it is a longstanding commercial
 landmark along Miller Avenue, signifying an aspect of the early and ongoing commercial character
-of Mill Valle~ including the connection between the town and its region to the 19th century
+of Mill Valley, including the connection between the town and its region to the 19th century
 lumber trade. Moreover, the MVL property is integrally associated both with Corte Madera
 Creek and with the Northwestern Pacific Railroad, the courses of which were manifest in the
 original and early form of the property and its structures."
