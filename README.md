@@ -2,7 +2,8 @@
 129 Miller Avenue, Mill Valley, CA 94941
 
 ## Building History
-Excerpt from a 2014 historic evaluation [link](http://cityofmillvalley.granicus.com/MetaViewer.php?view_id=2&clip_id=721&meta_id=31010)
+Excerpt from a 2014 historic evaluation [link](http://cityofmillvalley.granicus.com/MetaViewer.php?view_id=2&clip_id=721&meta_id=31010):
+
 "The history of the Mill Valley Lumber property is integral to the history of the town of Mill Valley. 
 Founded concurrent with the late-19th century origins of the town and located along one of Mill Valley's
 two principal thoroughfares, the MVL site and its use have been familiar to generations of local
